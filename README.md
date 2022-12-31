@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Sahu
-- 👀 I’m interested in software development for penetration testing and ethical hacking
+-  I’m interested in software development for penetration testing and ethical hacking
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Python
+-  I’m looking to collaborate on Python
 - 📫 Contact me via harshgupta2390@gmail.com
 
 <!---
