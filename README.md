@@ -15,7 +15,7 @@ I'm a dedicated student pursuing a dual interest in **Computer Science and Econo
 
 ## 🤝 How to reach me
 - **GitHub**: You're already here! Feel free to browse through my repositories and don't hesitate to reach out for collaborations or discussions.
-- **LinkedIn**: [Insert your LinkedIn URL here]](https://www.linkedin.com/in/-harsh-sahu/)
+- **LinkedIn**: (https://www.linkedin.com/in/-harsh-sahu/)
 - **Email**: harshsahu7525@gmail.com
 
 ## 🚀 What I'm looking forward to
