@@ -97,8 +97,8 @@ class HarshSahu:
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Projects & Contributions
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh2390&repo=YOUR_REPO_1&theme=tokyonight" width="49%" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh2390&repo=YOUR_REPO_2&theme=tokyonight" width="49%" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh2390&repo=Data-Structures-in-python&theme=tokyonight" width="49%" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh2390&repo=VibeCheck-Backend&theme=tokyonight" width="49%" /></a>
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
