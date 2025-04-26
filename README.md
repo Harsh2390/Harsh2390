@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-harsh-sahu/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshsahu7525@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/Harsh2390)
 
 </div>
 
@@ -66,8 +66,8 @@ I'm currently expanding my expertise in:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh2390&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh2390&layout=compact&theme=dark)
 
 </div>
 
