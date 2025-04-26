@@ -89,9 +89,27 @@ class HarshSahu:
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Current Learning Path
 
 <div align="center">
-  <img src="https://progress-bar.dev/80?title=Machine%20Learning" width="300" />
-  <img src="https://progress-bar.dev/65?title=Financial%20Modeling" width="300" />
-  <img src="https://progress-bar.dev/75?title=Data%20Analysis" width="300" />
+  
+```
+Machine Learning       [████████⣿⣿] 80%
+Financial Modeling     [██████⣿⣿⣿⣿] 65%
+Data Analysis          [███████⣿⣿⣿] 75%
+```
+
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/3o7TKAW5scvdFwFRMQ/giphy.gif" width="200px" alt="AI Learning"/></td>
+    <td>
+      <h4>My Learning Focus:</h4>
+      <ul>
+        <li>🧠 Advanced ML algorithms for financial forecasting</li>
+        <li>📊 Statistical models for market behavior prediction</li>
+        <li>🔍 Big data processing techniques for economic analysis</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+  
 </div>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Projects & Contributions
@@ -220,6 +238,7 @@ I'm a dedicated student pursuing a dual interest in **Computer Science and Econo
 - Collaborating on projects that sit at the intersection of technology and finance.
 - Expanding my network within the tech and finance communities.
 - Continuously learning and keeping up-to-date with the latest technological advancements and financial theories.
+
 
 
 <!---
