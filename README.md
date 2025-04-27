@@ -97,7 +97,7 @@ Data Analysis          [███████⣿⣿⣿] 75%
 
 <table>
   <tr>
-    <td><img src="[https://media.giphy.com/media/3o7TKAW5scvdFwFRMQ/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNtamVjZXJqcXQ3a284Ym5kYXk4OXp2c2JmeHEzdnhrdWkzYXgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)" width="200px" alt="AI Learning"/></td>
+    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNtamVjZXJqcXQ3a284Ym5kYXk4OXp2c2JmeHEzdnhrdWkzYXgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200px" alt="AI Learning"/></td>
     <td>
       <h4>My Learning Focus:</h4>
       <ul>
